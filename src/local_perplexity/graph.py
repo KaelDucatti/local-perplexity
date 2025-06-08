@@ -1,16 +1,10 @@
 import os
+
 from dotenv import load_dotenv
-
-from pydantic import BaseModel
-
 from langchain_ollama import ChatOllama
-from langgraph.graph import START, END, StateGraph
-from langgraph.types import Send
 
-from src.local_perplexity.schemas import *
 from src.local_perplexity.graph import *
-
-
+from src.local_perplexity.schemas import *
 
 load_dotenv()
 
