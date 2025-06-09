@@ -52,10 +52,9 @@ def spawn_researchers(state: ReportState):
 
 4. **Busca e Síntese Individual**:
 Para cada consulta, o sistema:
-
-1. Realiza uma busca web usando a API Tavily
-2. Extrai o conteúdo das páginas encontradas
-3. Sintetiza as informações relevantes
+    I. Realiza uma busca web usando a API Tavily
+    II. Extrai o conteúdo das páginas encontradas
+    III. Sintetiza as informações relevantes
 
 
 
@@ -134,15 +133,6 @@ streamlit run app.py
 ```
 
 Isso iniciará o servidor Streamlit e abrirá a aplicação no navegador (geralmente em [http://localhost:8501](http://localhost:8501)).
-
-### Interface da Aplicação
-
-1. Digite sua pergunta no campo de texto.
-2. Clique no botão "Pesquisar".
-3. Acompanhe o progresso da pesquisa em tempo real.
-4. Visualize a resposta gerada, incluindo as referências às fontes utilizadas.
-5. (Opcional) Expanda a seção "Reflexão" para ver o raciocínio do modelo.
-
 
 ## 📁 Estrutura do Projeto
 
