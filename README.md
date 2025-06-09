@@ -12,7 +12,7 @@ O **Local Perplexity** é uma aplicação de pesquisa avançada que combina mode
 
 O Local Perplexity utiliza uma arquitetura baseada em grafos de estados para orquestrar o fluxo de trabalho de pesquisa e síntese de informações:
 
-![Texto Alternativo](/home/kael/cursos/local_perplexity/local_perplexity.excalidraw.png)
+![Alt text](/home/kael/cursos/local_perplexity/local_perplexity.excalidraw.png)
 
 ### Componentes Principais
 
