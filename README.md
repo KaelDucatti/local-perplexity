@@ -141,7 +141,7 @@ Isso iniciará o servidor Streamlit e abrirá a aplicação no navegador (geralm
 2. Clique no botão "Pesquisar".
 3. Acompanhe o progresso da pesquisa em tempo real.
 4. Visualize a resposta gerada, incluindo as referências às fontes utilizadas.
-5. (Opcional) Expanda a seção "🧠 Reflexão" para ver o raciocínio do modelo.
+5. (Opcional) Expanda a seção "Reflexão" para ver o raciocínio do modelo.
 
 
 ## 📁 Estrutura do Projeto
