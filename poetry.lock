@@ -1086,6 +1086,21 @@ httpx = ">=0.27"
 pydantic = ">=2.9"
 
 [[package]]
+name = "openperplex"
+version = "0.3.0"
+description = "A Python client for the Openperplex API"
+optional = false
+python-versions = ">=3.8"
+groups = ["main"]
+files = [
+    {file = "openperplex-0.3.0-py3-none-any.whl", hash = "sha256:f9d2a3f2b6e681c022d4410630ea600d0bae48f41ca3de7c1b96e3512cf65b8a"},
+    {file = "openperplex-0.3.0.tar.gz", hash = "sha256:4d21423e1937adee4c8cfc62eaf4662e28bc5fbff6769575a95993c5012ed591"},
+]
+
+[package.dependencies]
+httpx = ">=0.26.0"
+
+[[package]]
 name = "orjson"
 version = "3.10.18"
 description = "Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy"
@@ -2946,4 +2961,4 @@ cffi = ["cffi (>=1.11)"]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.12,<4.0"
-content-hash = "696ee414d4a2448a789bada41333d95888ccf0d290d924bdeb595993ed94616e"
+content-hash = "32d3019ffeec1d52ce65f89fe4742bf56dde71ae9a35c7ae6634b00467afac1e"
