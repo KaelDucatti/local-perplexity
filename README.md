@@ -130,7 +130,7 @@ TAVILY_API_KEY=sua_chave_api_tavily
 ### Executando a Aplicação
 
 ```shellscript
-python app.py
+streamlit run app.py
 ```
 
 Isso iniciará o servidor Streamlit e abrirá a aplicação no navegador (geralmente em [http://localhost:8501](http://localhost:8501)).
