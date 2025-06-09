@@ -36,9 +36,10 @@ def spawn_researchers(state: ReportState):
     return [Send("single_search", {"query": query, "user_input": state.user_input})
             for query in state.queries]
 
+
 def single_search(data: dict):
     tavily_client = TavilyClient()
-    
+
     query = data["query"]
     user_input = data["user_input"]
 
