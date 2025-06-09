@@ -252,4 +252,4 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para d
 
 ---
 
-Desenvolvido por [Kael, o cruel] - [contato.mikaelducatti@gmail.com]
+Desenvolvido por Kael, o cruel - [contato.mikaelducatti@gmail.com]
