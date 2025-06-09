@@ -52,9 +52,9 @@ def spawn_researchers(state: ReportState):
 
 4. **Busca e Síntese Individual**:
 Para cada consulta, o sistema:
-    I. Realiza uma busca web usando a API Tavily
-    II. Extrai o conteúdo das páginas encontradas
-    III. Sintetiza as informações relevantes
+    - I. Realiza uma busca web usando a API Tavily
+    - II. Extrai o conteúdo das páginas encontradas
+    - III. Sintetiza as informações relevantes
 
 
 
